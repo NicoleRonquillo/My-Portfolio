@@ -1,0 +1,142 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  margin-bottom: 30px;
+}
+h3{
+  font-family: sans-serif;
+}
+h2 {
+  margin-top: 0;
+}
+
+#about {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.Fb{
+  color: rgb(41, 41, 199);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  text-decoration: none;
+
+}
+.Fb:hover {
+color: rgb(104, 187, 255);
+}
+
+.Insta{
+  color: rgb(187, 62, 187);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+.Insta:hover {
+  color: rgb(251, 255, 42);
+  }
+
+  
+.Github{
+  color: rgb(14, 13, 14);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+.Github:hover {
+  color: rgb(199, 199, 185);
+  }
+
+  
+.Home {
+  color: rgb(5, 5, 5);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+
+}
+
+.Home:hover {
+  color: rgb(104, 187, 255);
+}
+
+.Contact {
+  color: rgb(0, 0, 0);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+
+.Contact:hover {
+  color: rgb(251, 255, 42);
+}
+
+
+.Profile {
+  color: rgb(14, 13, 14);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+
+.Profile:hover {
+  color: rgb(199, 199, 185);
+}
+
+.Project {
+  color: rgb(14, 13, 14);
+  transition: color 0.2s;
+  height: 30px;
+  width: 50px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+
+.Project:hover {
+  color: rgb(77, 204, 94);
+}
+
+.image {
+  margin-top: 142px;
+  margin-left: -321px;
+
+}
+.Icon {
+  margin-top: -76px;
+  margin-bottom: 10px;
+  margin-left: 2227px;
+}
